@@ -8,5 +8,6 @@ if which chef > /dev/null; then
 else
   curl -L https://omnitruck.chef.io/install.sh | sudo bash
 fi
-chef-solo -j runlist.json --recipe-url https://github.com/lobo1111/my-automation/raw/master/my-automation.tar.gz
+#chef-solo -j runlist.json --recipe-url https://github.com/lobo1111/my-automation/raw/master/my-automation.tar.gz
+knife cookbook site install mymedia
 
