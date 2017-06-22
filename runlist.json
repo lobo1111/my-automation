@@ -1,0 +1,6 @@
+{
+  "name": "my-automation",
+  "run_list": [
+    "recipe[gitrepos]"
+  ]
+}
