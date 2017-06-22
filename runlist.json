@@ -1,7 +1,7 @@
 {
   "name": "my-automation",
   "run_list": [
-    "recipe[gitrepos]"
+    "recipe[gitrepos]",
     "recipe[mymedia]"
   ]
 }
