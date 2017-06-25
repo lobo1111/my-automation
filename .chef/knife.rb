@@ -1,1 +1,0 @@
-cookbook_path [ '/opt/my-automation/cookbooks' ]
