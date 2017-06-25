@@ -1,6 +1,6 @@
 {
   "name": "my-automation",
   "run_list": [
-    "cookbooks/recipe[mymedia]"
+    "recipe[mymedia]"
   ]
 }
