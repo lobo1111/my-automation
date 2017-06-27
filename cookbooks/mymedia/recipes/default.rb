@@ -8,9 +8,11 @@ docker_service 'default' do
   action [:create, :start]
 end
 
-node[:images][:names].each do |image|
+node[:media][:images].each do |image|
   docker_image image do
     action :pull
   end
 end
+
+
 
