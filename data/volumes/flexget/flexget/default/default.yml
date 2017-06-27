@@ -1,0 +1,3 @@
+{tasks: {rss: {rss: 'https://eztv.ag/ezrss.xml', template: tv}}, templates: {tv: {
+      configure_series: {from: {trakt_list: {list: flexget, type: shows, username: lobo1111}},
+        settings: {identified_by: ep, quality: 720p, timeframe: 1 hours}}, download: /opt/torrents}}}
