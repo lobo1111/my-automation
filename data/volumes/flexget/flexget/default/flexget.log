@@ -1,1 +1,5 @@
 2017-06-27 10:01 VERBOSE  manager                       Creating new database /opt/flexget/default/db-default.sqlite ...
+2017-06-27 10:02 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2017-06-27 10:02 VERBOSE  trakt_list    rss             Retrieving `shows` list `flexget`
+2017-06-27 10:02 VERBOSE  details       rss             Produced 50 entries.
+2017-06-27 10:02 VERBOSE  details       rss             Summary - Accepted: 0 (Rejected: 0 Undecided: 50 Failed: 0)
