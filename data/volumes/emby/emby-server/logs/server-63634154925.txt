@@ -1,0 +1,111 @@
+2017-06-27 10:08:45.9764 Info Main: Emby
+	Command line: /usr/lib/emby-server/bin/MediaBrowser.Server.Mono.exe -programdata /var/lib/emby-server -restartpath /usr/lib/emby-server/restart.sh
+	Operating system: Unix 3.10.0.514
+	64-Bit OS: True
+	64-Bit Process: True
+	Mono: 4.6.2 (Stable 4.6.2.7/08fd525 Mon Feb 20 07:36:11 UTC 2017)
+	Processor count: 2
+	Program data path: /var/lib/emby-server
+	Application directory: /usr/lib/emby-server/bin
+2017-06-27 10:08:46.1957 Info ImageMagick: ImageMagick version: ImageMagick 6.9.6-6 Q8 x86_64 2017-02-17 http://www.imagemagick.org
+2017-06-27 10:08:47.2707 Info App: Application version: 3.2.8.0
+2017-06-27 10:08:47.4839 Info App: Application configuration:
+	{"EnableUPnP":true,"PublicPort":8096,"PublicHttpsPort":8920,"HttpServerPortNumber":8096,"HttpsPortNumber":8920,"EnableHttps":false,"EnableSeriesPresentationUniqueKey":true,"EnableLocalizedGuids":true,"IsPortAuthorized":true,"EnableCaseSensitiveItemIds":true,"SeasonZeroDisplayName":"Specials","PreferredMetadataLanguage":"en","MetadataCountryCode":"US","SortReplaceCharacters":[".","+","%"],"SortRemoveCharacters":[",","&","-","{","}","'"],"SortRemoveWords":["the","a","an"],"MinResumePct":5,"MaxResumePct":90,"MinResumeDurationSeconds":300,"LibraryMonitorDelay":60,"EnableDashboardResponseCaching":true,"ImageSavingConvention":"Compatible","MetadataOptions":[{"ItemType":"Book","ImageOptions":[{"Type":"Backdrop","Limit":1,"MinWidth":1280}],"DisabledMetadataSavers":[],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":[],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"Movie","ImageOptions":[{"Type":"Backdrop","Limit":1,"MinWidth":1280},{"Type":"Art","Limit":0,"MinWidth":0},{"Type":"Disc","Limit":0,"MinWidth":0},{"Type":"Primary","Limit":1,"MinWidth":0},{"Type":"Banner","Limit":0,"MinWidth":0},{"Type":"Thumb","Limit":1,"MinWidth":0},{"Type":"Logo","Limit":1,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":[],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"MusicVideo","ImageOptions":[{"Type":"Backdrop","Limit":1,"MinWidth":1280},{"Type":"Art","Limit":0,"MinWidth":0},{"Type":"Disc","Limit":0,"MinWidth":0},{"Type":"Primary","Limit":1,"MinWidth":0},{"Type":"Banner","Limit":0,"MinWidth":0},{"Type":"Thumb","Limit":1,"MinWidth":0},{"Type":"Logo","Limit":1,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":[],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"Series","ImageOptions":[{"Type":"Backdrop","Limit":1,"MinWidth":1280},{"Type":"Art","Limit":0,"MinWidth":0},{"Type":"Primary","Limit":1,"MinWidth":0},{"Type":"Banner","Limit":1,"MinWidth":0},{"Type":"Thumb","Limit":1,"MinWidth":0},{"Type":"Logo","Limit":1,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":[],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"MusicAlbum","ImageOptions":[{"Type":"Backdrop","Limit":0,"MinWidth":1280},{"Type":"Disc","Limit":0,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":["TheAudioDB"],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"MusicArtist","ImageOptions":[{"Type":"Backdrop","Limit":1,"MinWidth":1280},{"Type":"Banner","Limit":0,"MinWidth":0},{"Type":"Art","Limit":0,"MinWidth":0},{"Type":"Logo","Limit":1,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":["TheAudioDB"],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"BoxSet","ImageOptions":[{"Type":"Backdrop","Limit":1,"MinWidth":1280},{"Type":"Primary","Limit":1,"MinWidth":0},{"Type":"Thumb","Limit":1,"MinWidth":0},{"Type":"Logo","Limit":1,"MinWidth":0},{"Type":"Art","Limit":0,"MinWidth":0},{"Type":"Disc","Limit":0,"MinWidth":0},{"Type":"Banner","Limit":0,"MinWidth":0}],"DisabledMetadataSavers":[],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":[],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"Season","ImageOptions":[{"Type":"Backdrop","Limit":0,"MinWidth":1280},{"Type":"Primary","Limit":1,"MinWidth":0},{"Type":"Banner","Limit":0,"MinWidth":0},{"Type":"Thumb","Limit":0,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":["TheMovieDb"],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]},{"ItemType":"Episode","ImageOptions":[{"Type":"Backdrop","Limit":0,"MinWidth":1280},{"Type":"Primary","Limit":1,"MinWidth":0}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":["The Open Movie Database","TheMovieDb"],"MetadataFetcherOrder":[],"DisabledImageFetchers":["The Open Movie Database","TheMovieDb"],"ImageFetcherOrder":[]},{"ItemType":"Video","ImageOptions":[{"Type":"Backdrop","Limit":3,"MinWidth":1280}],"DisabledMetadataSavers":["Emby Xml"],"LocalMetadataReaderOrder":[],"DisabledMetadataFetchers":[],"MetadataFetcherOrder":[],"DisabledImageFetchers":[],"ImageFetcherOrder":[]}],"EnableAutomaticRestart":true,"SkipDeserializationForBasicTypes":true,"SkipDeserializationForPrograms":true,"SkipDeserializationForAudio":true,"UICulture":"en-us","SaveMetadataHidden":false,"ContentTypes":[],"RemoteClientBitrateLimit":0,"SharingExpirationDays":30,"SchemaVersion":0,"EnableAnonymousUsageReporting":true,"EnableStandaloneMusicKeys":true,"EnableFolderView":true,"EnableGroupingIntoCollections":false,"DisplaySpecialsWithinSeasons":true,"DisplayCollectionsView":false,"LocalNetworkAddresses":[],"CodecsUsed":[],"Migrations":["LibraryScan6","GuideRefresh3"],"EnableChannelView":false,"EnableExternalContentInSuggestions":true,"ImageExtractionTimeoutMs":0,"PathSubstitutions":[],"EnableSimpleArtistDetection":true,"EnableDebugLevelLogging":false,"EnableAutoUpdate":true,"SystemUpdateLevel":"Release","LogFileRetentionDays":3,"RunAtStartup":false,"IsStartupWizardCompleted":true}
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.Api, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.WebDashboard, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.Model, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.Common, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.Controller, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.Providers, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Photos, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Common.Implementations, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Server.Implementations, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Server.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.MediaEncoding, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Dlna, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.LocalMetadata, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.XbmcMetadata, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.Server.Mono, Version=3.2.8.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Server.CinemaMode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading MediaBrowser.IsoMounting.Linux, Version=1.0.6170.29462, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Server.Connect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Server.Sync, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.5060 Info App: Loading Emby.Server.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-06-27 10:08:47.7081 Info SqliteUserRepository: Sqlite version: 3.16.2
+2017-06-27 10:08:47.7096 Info SqliteUserRepository: Sqlite compiler options: COMPILER=gcc-4.8.5 20150623 (Red Hat 4.8.5-11),ENABLE_COLUMN_METADATA,ENABLE_DBSTAT_VTAB,ENABLE_FTS3,ENABLE_FTS3_PARENTHESIS,ENABLE_FTS5,ENABLE_JSON1,ENABLE_LOAD_EXTENSION,ENABLE_RTREE,ENABLE_UNLOCK_NOTIFY,ENABLE_UPDATE_DELETE_LIMIT,LIKE_DOESNT_MATCH_BLOBS,MAX_SCHEMA_RETRY=25,OMIT_LOOKASIDE,SECURE_DELETE,SYSTEM_MALLOC,THREADSAFE=1
+2017-06-27 10:08:47.7677 Info SqliteUserRepository: Default journal_mode for /var/lib/emby-server/data/users.db is wal
+2017-06-27 10:08:47.7713 Info SqliteUserRepository: PRAGMA synchronous=1
+2017-06-27 10:08:47.7910 Info SqliteFileOrganizationRepository: Default journal_mode for /var/lib/emby-server/data/fileorganization.db is wal
+2017-06-27 10:08:47.7910 Info SqliteFileOrganizationRepository: PRAGMA synchronous=1
+2017-06-27 10:08:47.7970 Info AuthenticationRepository: Default journal_mode for /var/lib/emby-server/data/authentication.db is wal
+2017-06-27 10:08:47.7973 Info AuthenticationRepository: PRAGMA synchronous=1
+2017-06-27 10:08:48.0798 Info ImageProcessor: ImageProcessor started with 4 max concurrent image processes
+2017-06-27 10:08:48.1161 Info SharingRepository: Default journal_mode for /var/lib/emby-server/data/shares.db is wal
+2017-06-27 10:08:48.1163 Info SharingRepository: PRAGMA synchronous=1
+2017-06-27 10:08:48.1227 Info ActivityRepository: Default journal_mode for /var/lib/emby-server/data/activitylog.db is wal
+2017-06-27 10:08:48.1227 Info ActivityRepository: PRAGMA synchronous=1
+2017-06-27 10:08:48.1270 Info SqliteDisplayPreferencesRepository: Default journal_mode for /var/lib/emby-server/data/displaypreferences.db is wal
+2017-06-27 10:08:48.1273 Info SqliteDisplayPreferencesRepository: PRAGMA synchronous=1
+2017-06-27 10:08:48.1348 Info SqliteItemRepository: Default journal_mode for /var/lib/emby-server/data/library.db is wal
+2017-06-27 10:08:48.1358 Info SqliteItemRepository: PRAGMA synchronous=1
+2017-06-27 10:08:48.1535 Info SqliteNotificationsRepository: Default journal_mode for /var/lib/emby-server/data/notifications.db is wal
+2017-06-27 10:08:48.1535 Info SqliteNotificationsRepository: PRAGMA synchronous=1
+2017-06-27 10:08:48.9534 Info HttpServer: Calling ServiceStack AppHost.Init
+2017-06-27 10:08:50.3706 Info ServerManager: Loading Http Server
+2017-06-27 10:08:50.3809 Info HttpServer: Adding HttpListener prefix http://+:8096/
+2017-06-27 10:08:50.3825 Info HttpServer: Adding HttpListener prefix https://+:8920/
+2017-06-27 10:08:51.3893 Info App: [LinuxMount] Using version of [sudo] located at [].
+2017-06-27 10:08:51.3893 Info App: [LinuxMount] Using version of [mount] located at [/bin/mount].
+2017-06-27 10:08:51.3908 Info App: [LinuxMount] Using version of [umount] located at [/bin/umount].
+2017-06-27 10:08:51.4888 Info HttpClient: HttpClientManager GET: https://api.github.com/repos/MediaBrowser/Emby/releases
+2017-06-27 10:08:53.3685 Info TaskManager: Daily trigger for Start new log file set to fire at 06/28/2017 00:00:00, which is 831.110592816667 minutes from now.
+2017-06-27 10:08:53.3918 Info TaskManager: Daily trigger for Chapter image extraction set to fire at 06/28/2017 02:00:00, which is 951.11013565 minutes from now.
+2017-06-27 10:08:53.4142 Info MediaEncoder: FFMpeg: /var/lib/emby-server/ffmpeg/20160215/ffmpeg
+2017-06-27 10:08:53.4142 Info MediaEncoder: FFProbe: /var/lib/emby-server/ffmpeg/20160215/ffprobe
+2017-06-27 10:08:53.4149 Info MediaEncoder: Validating media encoder at /var/lib/emby-server/ffmpeg/20160215/ffmpeg
+2017-06-27 10:08:53.4209 Info MediaEncoder: Running /var/lib/emby-server/ffmpeg/20160215/ffmpeg -decoders
+2017-06-27 10:08:53.6315 Info HttpServer: WS ws://192.168.0.2:8096/?api_key=3eae8c19883c44c1a4debb376b4965d7&deviceId=A23003FBA84C469A893E818D9BACA2B3. UserAgent: 
+2017-06-27 10:08:53.7614 Warn SessionWebSocketListener: Unable to determine session based on url: /?api_key=3eae8c19883c44c1a4debb376b4965d7&deviceId=A23003FBA84C469A893E818D9BACA2B3
+2017-06-27 10:08:53.8410 Info HttpServer: HTTP POST http://192.168.0.2:8096/emby/Sessions/Capabilities/Full?format=json. UserAgent: 
+2017-06-27 10:08:53.9225 Info HttpServer: HTTP Response 503 to 192.168.0.143. Time: 121ms. http://192.168.0.2:8096/emby/Sessions/Capabilities/Full?format=json
+2017-06-27 10:08:54.5021 Info MediaEncoder: Decoder available: h264_qsv
+2017-06-27 10:08:54.5066 Info MediaEncoder: Decoder available: hevc_qsv
+2017-06-27 10:08:54.5125 Info MediaEncoder: Decoder available: mpeg2_qsv
+2017-06-27 10:08:54.5233 Info MediaEncoder: Decoder available: vc1_qsv
+2017-06-27 10:08:54.5245 Info MediaEncoder: Running /var/lib/emby-server/ffmpeg/20160215/ffmpeg -encoders
+2017-06-27 10:08:55.0878 Info HttpServer: HTTP GET https://192.168.0.2:8920/emby/ScheduledTasks?IsEnabled=true. UserAgent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2017-06-27 10:08:55.0897 Info HttpServer: HTTP Response 503 to 192.168.0.150. Time: 2ms. https://192.168.0.2:8920/emby/ScheduledTasks?IsEnabled=true
+2017-06-27 10:08:55.2142 Info MediaEncoder: Encoder available: libx264
+2017-06-27 10:08:55.2161 Info MediaEncoder: Encoder available: libx265
+2017-06-27 10:08:55.2186 Info MediaEncoder: Encoder available: mpeg4
+2017-06-27 10:08:55.2214 Info MediaEncoder: Encoder available: msmpeg4
+2017-06-27 10:08:55.2257 Info MediaEncoder: Encoder available: libvpx
+2017-06-27 10:08:55.2300 Info MediaEncoder: Encoder available: libvpx-vp9
+2017-06-27 10:08:55.2350 Info MediaEncoder: Encoder available: aac
+2017-06-27 10:08:55.2410 Info MediaEncoder: Encoder available: libmp3lame
+2017-06-27 10:08:55.2472 Info MediaEncoder: Encoder available: libopus
+2017-06-27 10:08:55.2589 Info MediaEncoder: Encoder available: libvorbis
+2017-06-27 10:08:55.2673 Info MediaEncoder: Encoder available: srt
+2017-06-27 10:08:55.2865 Info MediaEncoder: Encoder available: h264_qsv
+2017-06-27 10:08:55.2885 Info MediaEncoder: Encoder available: hevc_qsv
+2017-06-27 10:08:55.3317 Info MediaEncoder: Encoder validation complete
+2017-06-27 10:08:55.3356 Info App: ServerId: e90012bd1c3147ffae37fe05d0f09d27
+2017-06-27 10:08:55.3356 Info App: Core startup complete
+2017-06-27 10:08:55.3411 Info App: Post-init migrations complete
+2017-06-27 10:08:55.5242 Info App: Starting entry point MediaBrowser.Api.ApiEntryPoint
+2017-06-27 10:08:55.5261 Info App: Entry point completed: MediaBrowser.Api.ApiEntryPoint. Duration: 0.00167 seconds
+2017-06-27 10:08:55.5261 Info App: Starting entry point MediaBrowser.WebDashboard.ServerEntryPoint
+2017-06-27 10:08:55.5285 Info App: Entry point completed: MediaBrowser.WebDashboard.ServerEntryPoint. Duration: 0.002353 seconds
+2017-06-27 10:08:55.5285 Info App: Starting entry point Emby.Server.Implementations.Activity.ActivityLogEntryPoint
+2017-06-27 10:08:55.5342 Info App: Entry point completed: Emby.Server.Implementations.Activity.ActivityLogEntryPoint. Duration: 0.005642 seconds
+2017-06-27 10:08:55.5342 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint
+2017-06-27 10:08:55.5342 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint. Duration: 0.000866 seconds
+2017-06-27 10:08:55.5342 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.KeepServerAwake
+2017-06-27 10:08:55.5354 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.KeepServerAwake. Duration: 0.000308 seconds
+2017-06-27 10:08:55.5354 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier
+2017-06-27 10:08:55.5369 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier. Duration: 0.001486 seconds
+2017-06-27 10:08:55.5369 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.LoadRegistrations
+2017-06-27 10:08:55.5372 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.LoadRegistrations. Duration: 0.000285 seconds
+2017-06-27 10:08:55.5372 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.RecordingNotifier
+2017-06-27 10:08:55.5393 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.RecordingNotifier. Duration: 0.002036 seconds
+2017-06-27 10:08:55.5393 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.RefreshUsersMetadata

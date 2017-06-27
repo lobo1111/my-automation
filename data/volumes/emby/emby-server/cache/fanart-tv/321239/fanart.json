@@ -1,0 +1,88 @@
+{
+    "name": "The Handmaid's Tale",
+    "thetvdb_id": "321239",
+    "hdtvlogo": [
+        {
+            "id": "70187",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/hdtvlogo/the-handmaids-tale-5873da37255ff.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "74625",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/hdtvlogo/the-handmaids-tale-5900c67493b5a.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "74967",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/hdtvlogo/the-handmaids-tale-591194b28f568.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "74968",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/hdtvlogo/the-handmaids-tale-591194bf4a36d.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "74656",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/tvposter/the-handmaids-tale-5904370c43c61.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "70179",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/tvposter/the-handmaids-tale-5873d74d6b653.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdclearart": [
+        {
+            "id": "74969",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/hdclearart/the-handmaids-tale-591194deb9b45.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "characterart": [
+        {
+            "id": "74970",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/characterart/the-handmaids-tale-591194ecdf563.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "74970",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/characterart/the-handmaids-tale-591194ecdf563.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "tvbanner": [
+        {
+            "id": "74657",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/tvbanner/the-handmaids-tale-59043724ed4f4.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "74685",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/tvbanner/the-handmaids-tale-5904d505a6fde.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "tvthumb": [
+        {
+            "id": "74684",
+            "url": "http://assets.fanart.tv/fanart/tv/321239/tvthumb/the-handmaids-tale-5904d4f7ac189.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ]
+}

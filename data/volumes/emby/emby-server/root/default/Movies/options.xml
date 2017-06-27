@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<LibraryOptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnableArchiveMediaFiles>false</EnableArchiveMediaFiles>
+  <EnablePhotos>true</EnablePhotos>
+  <EnableRealtimeMonitor>true</EnableRealtimeMonitor>
+  <EnableChapterImageExtraction>false</EnableChapterImageExtraction>
+  <ExtractChapterImagesDuringLibraryScan>false</ExtractChapterImagesDuringLibraryScan>
+  <DownloadImagesInAdvance>true</DownloadImagesInAdvance>
+  <PathInfos>
+    <MediaPathInfo>
+      <Path>/mnt/movies</Path>
+    </MediaPathInfo>
+  </PathInfos>
+  <SaveLocalMetadata>true</SaveLocalMetadata>
+  <EnableInternetProviders>true</EnableInternetProviders>
+  <ImportMissingEpisodes>false</ImportMissingEpisodes>
+  <EnableAutomaticSeriesGrouping>true</EnableAutomaticSeriesGrouping>
+  <EnableEmbeddedTitles>true</EnableEmbeddedTitles>
+  <PreferredMetadataLanguage>pl</PreferredMetadataLanguage>
+  <MetadataCountryCode>PL</MetadataCountryCode>
+</LibraryOptions>

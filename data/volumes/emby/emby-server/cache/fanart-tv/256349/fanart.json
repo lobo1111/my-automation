@@ -1,0 +1,136 @@
+{
+    "name": "Transformers: Rescue Bots",
+    "thetvdb_id": "256349",
+    "seasonposter": [
+        {
+            "id": "69903",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/seasonposter/transformers-rescue-bots-586dcf4139fcf.jpg",
+            "lang": "en",
+            "likes": "1",
+            "season": "1"
+        },
+        {
+            "id": "69904",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/seasonposter/transformers-rescue-bots-586dcfad4dfbc.jpg",
+            "lang": "en",
+            "likes": "1",
+            "season": "2"
+        },
+        {
+            "id": "69905",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/seasonposter/transformers-rescue-bots-586dd04777bb4.jpg",
+            "lang": "en",
+            "likes": "1",
+            "season": "3"
+        },
+        {
+            "id": "69910",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/seasonposter/transformers-rescue-bots-586e064defcc6.jpg",
+            "lang": "en",
+            "likes": "1",
+            "season": "4"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "69909",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/tvposter/transformers-rescue-bots-586e04a2e3c5e.jpg",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "characterart": [
+        {
+            "id": "20066",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/characterart/transformers-rescue-bots-5037b699e670d.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "19850",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/characterart/transformers-rescue-bots-502deb316a8f3.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "clearlogo": [
+        {
+            "id": "19844",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/clearlogo/transformers-rescue-bots-502d692a8502f.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "tvthumb": [
+        {
+            "id": "19858",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/tvthumb/transformers-rescue-bots-502e15b10087b.jpg",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "clearart": [
+        {
+            "id": "19916",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/clearart/transformers-rescue-bots-5031f8c0b276b.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "hdtvlogo": [
+        {
+            "id": "21734",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/hdtvlogo/transformers-rescue-bots-5070931083709.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "showbackground": [
+        {
+            "id": "19954",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/showbackground/transformers-rescue-bots-50349c5eef1ae.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        },
+        {
+            "id": "19954",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/showbackground/transformers-rescue-bots-50349c5eef1ae.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        },
+        {
+            "id": "69902",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/showbackground/transformers-rescue-bots-586dccbb67f0e.jpg",
+            "lang": "",
+            "likes": "0",
+            "season": "all"
+        }
+    ],
+    "hdclearart": [
+        {
+            "id": "64775",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/hdclearart/transformers-rescue-bots-57bed87f4e7b4.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "tvbanner": [
+        {
+            "id": "70422",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/tvbanner/transformers-rescue-bots-5877ceeef36b3.jpg",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "seasonbanner": [
+        {
+            "id": "30061",
+            "url": "http://assets.fanart.tv/fanart/tv/256349/seasonbanner/transformers-rescue-bots-51bfb5e4e12b0.jpg",
+            "lang": "en",
+            "likes": "0",
+            "season": "1"
+        }
+    ]
+}

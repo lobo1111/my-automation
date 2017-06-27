@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>422521</id>
+  <Image>actors/422521.jpg</Image>
+  <Name>Elisabeth Moss</Name>
+  <Role>Offred / June</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>404123</id>
+  <Image>actors/404123.jpg</Image>
+  <Name>Joseph Fiennes</Name>
+  <Role>Commander Fred</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>422523</id>
+  <Image>actors/422523.jpg</Image>
+  <Name>Yvonne Strahovski</Name>
+  <Role>Serena Joy</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>422529</id>
+  <Image>actors/422529.jpg</Image>
+  <Name>Madeline Brewer</Name>
+  <Role>Janine</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>422524</id>
+  <Image>actors/422524.jpg</Image>
+  <Name>Samira Wiley</Name>
+  <Role>Moira</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>422522</id>
+  <Image>actors/422522.jpg</Image>
+  <Name>Alexis Bledel</Name>
+  <Role>Ofglen</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>422101</id>
+  <Image>actors/422101.jpg</Image>
+  <Name>Ann Dowd</Name>
+  <Role>Aunt Lydia</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>404124</id>
+  <Image>actors/404124.jpg</Image>
+  <Name>O.T. Fagbenle</Name>
+  <Role>Luke</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>404122</id>
+  <Image>actors/404122.jpg</Image>
+  <Name>Max Minghella</Name>
+  <Role>Nick</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>
