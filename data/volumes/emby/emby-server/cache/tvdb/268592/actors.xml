@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Actors>
+<Actor>
+  <id>323867</id>
+  <Image>actors/323867.jpg</Image>
+  <Name>Eliza Taylor</Name>
+  <Role>Clarke Griffin</Role>
+  <SortOrder>0</SortOrder>
+</Actor>
+<Actor>
+  <id>327439</id>
+  <Image>actors/327439.jpg</Image>
+  <Name>Bob Morley</Name>
+  <Role>Bellamy Blake</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>323868</id>
+  <Image>actors/323868.jpg</Image>
+  <Name>Marie Avgeropoulos</Name>
+  <Role>Octavia Blake</Role>
+  <SortOrder>1</SortOrder>
+</Actor>
+<Actor>
+  <id>345934</id>
+  <Image>actors/345934.jpg</Image>
+  <Name>Lindsey Morgan</Name>
+  <Role>Raven Reyes</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>343653</id>
+  <Image>actors/343653.jpg</Image>
+  <Name>Richard Harmon</Name>
+  <Role>John Murphy</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>333230</id>
+  <Image>actors/333230.jpg</Image>
+  <Name>Ricky Whittle</Name>
+  <Role>Lincoln</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>327447</id>
+  <Image>actors/327447.jpg</Image>
+  <Name>Thomas McDonell</Name>
+  <Role>Finn Collins</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>327446</id>
+  <Image>actors/327446.jpg</Image>
+  <Name>Paige Turco</Name>
+  <Role>Abigail &quot;Abby&quot; Griffin</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>327444</id>
+  <Image>actors/327444.jpg</Image>
+  <Name>Isaiah Washington</Name>
+  <Role>Thelonious Jaha</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>327443</id>
+  <Image>actors/327443.jpg</Image>
+  <Name>Henry Ian Cusick</Name>
+  <Role>Marcus Kane</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>327441</id>
+  <Image>actors/327441.jpg</Image>
+  <Name>Devon Bostick</Name>
+  <Role>Jasper Jordan</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>327440</id>
+  <Image>actors/327440.jpg</Image>
+  <Name>Christopher Larkin</Name>
+  <Role>Monty Green</Role>
+  <SortOrder>2</SortOrder>
+</Actor>
+<Actor>
+  <id>377923</id>
+  <Image>actors/377923.jpg</Image>
+  <Name>Alessandro Juliani</Name>
+  <Role>Sinclair </Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376976</id>
+  <Image>actors/376976.jpg</Image>
+  <Name>Eve Harlow</Name>
+  <Role>Maya Vie</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376967</id>
+  <Image>actors/376967.jpg</Image>
+  <Name>Raymond J. Barry</Name>
+  <Role>Dante Wallace</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376966</id>
+  <Image>actors/376966.jpg</Image>
+  <Name>Johnny Whitworth</Name>
+  <Role>Cage Wallace</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376964</id>
+  <Image>actors/376964.jpg</Image>
+  <Name>Erica Cerra</Name>
+  <Role>A.L.I.E./Becca</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376961</id>
+  <Image>actors/376961.jpg</Image>
+  <Name>Eli Goree</Name>
+  <Role>Wells Jaha</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376811</id>
+  <Image>actors/376811.jpg</Image>
+  <Name>Michael Beach</Name>
+  <Role>Charles Pike</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376361</id>
+  <Image>actors/376361.jpg</Image>
+  <Name>Jarod Joseph</Name>
+  <Role>Nathan Miller</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>376360</id>
+  <Image>actors/376360.jpg</Image>
+  <Name>Chelsey Reist</Name>
+  <Role>Harper</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>371741</id>
+  <Image>actors/371741.jpg</Image>
+  <Name>Zach McGowan</Name>
+  <Role>Roan</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>370708</id>
+  <Image>actors/370708.jpg</Image>
+  <Name>Adina Porter</Name>
+  <Role>Indra</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>345583</id>
+  <Image>actors/345583.jpg</Image>
+  <Name>Steve Talley</Name>
+  <Role>Kyle Wick</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+<Actor>
+  <id>343652</id>
+  <Image>actors/343652.jpg</Image>
+  <Name>Alycia Debnam-Carey</Name>
+  <Role>Lexa</Role>
+  <SortOrder>3</SortOrder>
+</Actor>
+</Actors>

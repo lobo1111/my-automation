@@ -1,0 +1,34 @@
+{
+    "name": "The Mist",
+    "thetvdb_id": "326887",
+    "hdclearart": [
+        {
+            "id": "75906",
+            "url": "http://assets.fanart.tv/fanart/tv/326887/hdclearart/the-mist-59385e97c4486.png",
+            "lang": "en",
+            "likes": "2"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "76312",
+            "url": "http://assets.fanart.tv/fanart/tv/326887/tvposter/the-mist-594566165d2dc.jpg",
+            "lang": "00",
+            "likes": "1"
+        },
+        {
+            "id": "74122",
+            "url": "http://assets.fanart.tv/fanart/tv/326887/tvposter/the-mist-58efa3a937702.jpg",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "hdtvlogo": [
+        {
+            "id": "74123",
+            "url": "http://assets.fanart.tv/fanart/tv/326887/hdtvlogo/the-mist-58efa3f33ee12.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ]
+}

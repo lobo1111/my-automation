@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<UserPolicy xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsAdministrator>false</IsAdministrator>
+  <IsHidden>false</IsHidden>
+  <IsDisabled>false</IsDisabled>
+  <MaxParentalRating xsi:nil="true" />
+  <BlockedTags />
+  <EnableUserPreferenceAccess>true</EnableUserPreferenceAccess>
+  <AccessSchedules />
+  <BlockUnratedItems />
+  <EnableRemoteControlOfOtherUsers>false</EnableRemoteControlOfOtherUsers>
+  <EnableSharedDeviceControl>true</EnableSharedDeviceControl>
+  <EnableLiveTvManagement>true</EnableLiveTvManagement>
+  <EnableLiveTvAccess>true</EnableLiveTvAccess>
+  <EnableMediaPlayback>true</EnableMediaPlayback>
+  <EnableAudioPlaybackTranscoding>true</EnableAudioPlaybackTranscoding>
+  <EnableVideoPlaybackTranscoding>true</EnableVideoPlaybackTranscoding>
+  <EnablePlaybackRemuxing>true</EnablePlaybackRemuxing>
+  <EnableContentDeletion>false</EnableContentDeletion>
+  <EnableContentDownloading>true</EnableContentDownloading>
+  <EnableSync>true</EnableSync>
+  <EnableSyncTranscoding>true</EnableSyncTranscoding>
+  <EnabledDevices />
+  <EnableAllDevices>true</EnableAllDevices>
+  <EnabledChannels />
+  <EnableAllChannels>true</EnableAllChannels>
+  <EnabledFolders />
+  <EnableAllFolders>true</EnableAllFolders>
+  <InvalidLoginAttemptCount>0</InvalidLoginAttemptCount>
+  <EnablePublicSharing>true</EnablePublicSharing>
+</UserPolicy>

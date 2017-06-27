@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<EncodingOptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EncodingThreadCount>-1</EncodingThreadCount>
+  <DownMixAudioBoost>2</DownMixAudioBoost>
+  <EnableThrottling>true</EnableThrottling>
+  <ThrottleDelaySeconds>180</ThrottleDelaySeconds>
+  <EncoderAppPath>/var/lib/emby-server/ffmpeg/20160215/ffmpeg</EncoderAppPath>
+  <VaapiDevice>/dev/dri/card0</VaapiDevice>
+  <H264Crf>23</H264Crf>
+</EncodingOptions>
